@@ -1,0 +1,13 @@
+README.txt
+setup.cfg
+setup.py
+src/sms/__init__.py
+src/sms/echo.py
+src/sms/server.py
+src/sms/tests.py
+src/sms.egg-info/PKG-INFO
+src/sms.egg-info/SOURCES.txt
+src/sms.egg-info/dependency_links.txt
+src/sms.egg-info/not-zip-safe
+src/sms.egg-info/requires.txt
+src/sms.egg-info/top_level.txt
